@@ -34,8 +34,8 @@
 	- [Arithmetic](#Arithmetic)
 	- [None](#None)
 - [Anti-spam system (BETA)](#Anti-spam-system-BETA)
-- [I found a bug or have an idea](#I-found-a-bug-or-have-an-idea)
-- [Donation](#Donation)
+- [Report a bug or suggest an idea](#Report-a-bug-or-suggest-an-idea)
+- [Express your gratitude](#Express-your-gratitude)
 
 <h1><p align="center">Short description</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
@@ -49,6 +49,12 @@
 - Deleting system messages;
 - Commands for user management;
 - Commands for working with crypto.
+
+⠀Supported languages:
+- English;
+- Russian.
+
+⠀[Русскоязычная документация](./README_RU.md)
 
 <h1><p align="center">Quick start</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
@@ -188,10 +194,10 @@
 - USERNAME — the username in any format
 - DURATION — mute duration
   - DAYSd HOURSh MINUTESm
-  - DD.MM.YYYY HH:MM — date and time in UTC
-  - DD/MM/YYYY HH:MM (UTC)
+  - DD.MM.YYYY HH:MM — date and time
+  - DD/MM/YYYY HH:MM
 
-🕹 Examples:
+🕹 __Examples__:
 ```
 /m — as a reply to a message
 /m 15m
@@ -220,7 +226,7 @@
 
 - <ins>OFFSET</ins> — hour offset from UTC
 
-🕹 Examples:
+🕹 __Examples__:
 ```
 /tz 3 — UTC+3
 /tz 0 — UTC
@@ -299,7 +305,7 @@
 - <ins>SYMBOL</ins> — token symbol
 - NUMBER — number to calculate a product
 
-🕹 Examples:
+🕹 __Examples__:
 ```
 /ti eth
 📢 Project name: Ethereum
@@ -337,7 +343,7 @@
 
 🧰 __Functionality__:
 
-⠀Warn a user, on __ warnings a mute will be issued for ___.
+⠀Warn a user, on ___ warnings a mute will be issued for ___.
 
 🗣 __Aliases__:
 ```
@@ -425,7 +431,7 @@ again.
 - <ins>SYMBOL</ins> — token symbol
 - NUMBER — number to calculate a product
 
-🕹 Examples:
+🕹 __Examples__:
 ```
 /ti eth
 📢 Project name: Ethereum
@@ -493,7 +499,7 @@ again.
 - Select <ins>the third</ins> digit from <ins>the left side</ins>.
 - Select <ins>the fourth</ins> digit from <ins>the right side</ins>.
 - Select <ins>the second</ins> digit from <ins>the left side</ins>.
-- Select <ins>the third</ins> digit from <ins>the right side</ins>.
+- Select <ins>the first</ins> digit from <ins>the right side</ins>.
 
 <p align="center"><img src="/images/numbers_and_buttons.png"></p>
 
@@ -519,18 +525,14 @@ again.
 
 ⠀Admitix has anti-spam system which protect crypto groups from spamming. In addition, he immediately bans fake bots (Rose, Group Help, etc.) which join to spam.
 
-⠀Supported languages:
-- English;
-- Russian.
+⠀To help developers improve anti-spam system, please, send the `/report` command as a reply to spam message which bypassed the system (general users can send it too)! This action will send a message to the developers for further analysis.
 
-⠀To help developers improve anti-spam system, please, send the `/report` command as a reply to spam message which got past the system (general users can do it too)! This action will send a message to the developers for further analysis.
-
-<h1><p align="center">I found a bug or have an idea</p></h1>
+<h1><p align="center">Report a bug or suggest an idea</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
 
-⠀If you found a bug or have an idea, go to [Issue tab](https://github.com/1package/Admitix/issues), click «New issue», select the template and fill it.
+⠀If you found a bug or have an idea, go to [the link](https://github.com/1package/Admitix/issues/new/choose), select the template, fill it out and submit it.
 
-<h1><p align="center">Donation</p></h1>
+<h1><p align="center">Express your gratitude</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
 
 ⠀You can express your gratitude to the bot developers by sending fund to crypto wallets!
