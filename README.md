@@ -74,7 +74,7 @@
 
 ⠀The following settings will be applied by default:
 - Time zone: UTC;
-- Captcha type: random;
+- Captcha type: arithmetic;
 - Time to solve a captcha: 60 seconds;
 - Maximum failed captcha attempts: 3;
 - Warning threshold: 3;
