@@ -70,7 +70,7 @@
 - Add him to your group;
 - Give him admin rights through the group settings;
 - In the sent message, select the language of your group;
-- If your group time zone is different from UTC change hour offset using the `/time_zone` command, e.g.:
+- If your group time zone is different from UTC, change hour offset using the `/time_zone` command, e.g.:
 ```
 /time_zone -4
 /time_zone 3
