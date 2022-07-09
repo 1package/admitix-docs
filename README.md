@@ -10,6 +10,7 @@
 <h1><p align="center">Content</p></h1>
 
 - [Short description](#Short-description)
+- [Useful links](#Useful-links)
 - [Quick start](#Quick-start)
 - [Commands](#Commands)
 	- [Admins](#-Admins)
@@ -53,6 +54,11 @@
 ⠀Supported languages:
 - English;
 - Russian.
+
+<h1><p align="center">Useful links</p></h1>
+<p align="right"><a href="#Content">To the content</a></p>
+
+⠀[News channel](https://t.me/Admitix_News)
 
 ⠀[Русскоязычная документация](./README_RU.md)
 
